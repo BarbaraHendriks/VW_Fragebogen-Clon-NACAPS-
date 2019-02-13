@@ -25,7 +25,7 @@ Barbara Hendriks und Prof. Dr. Stefan Hornbostel
 
 !!Hinweise zum Datenschutz!!
 
-Ihre Teilnahme ist selbstverständlich freiwillig. Ihre Angaben werden für Forschungs- und Evaluationszwecke genutzt. Sämtliche Nacaps-Daten werden nur in anonymisierter Form publiziert und anderen Wissenschaftler(inne)n nur anonymisiert zur Verfügung gestellt. Ihre Kontaktdaten werden stets getrennt von den Befragungsdaten verarbeitet und gespeichert. Keinesfalls werden Ihre Kontaktdaten an Dritte weitergegeben.
+Ihre Teilnahme ist selbstverständlich freiwillig. Ihre Angaben werden für Forschungs- und Evaluationszwecke genutzt. Sämtliche Daten werden nur in anonymisierter Form publiziert und anderen Wissenschaftler(inne)n nur anonymisiert zur Verfügung gestellt. Ihre Kontaktdaten werden stets getrennt von den Befragungsdaten verarbeitet und gespeichert. Keinesfalls werden Ihre Kontaktdaten an Dritte weitergegeben.
 
 ao: 1 : : Ich habe die in der Einladungsemail als PDF angehängten Datenschutzbestimmungen gelesen und bin damit einverstanden.
 
