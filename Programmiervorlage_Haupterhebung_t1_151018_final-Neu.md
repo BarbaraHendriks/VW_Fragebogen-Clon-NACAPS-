@@ -66,50 +66,6 @@ hi: Hinweistext (fv) bitte in rot
 
 \-------------------------------------------------------------------------------------------------------------------------------------------------
 
-\__________________________________________index2_________________________________________\_
--------------------------------------------------------------------------------------------
-
-tc: if aict01 = TRUE AND (preload01 = 10 OR preload01 = 11 OR preload01 = 13 OR preload01 = 15 OR preload01 = 24)
-(wenn Zustimmung Datenschutz bei index und preloads für die Unis Bielefeld (10), Bochum (11), Dortmund (13), Duisburg-Essen (15), Hagen (24) gegeben)
-
-vn: aict01nrw
-
-qt: Einfachauswahl
-
-hl:
-
-in:
-
-q:
-Die Hochschule, an der Sie im Dezember 2018 zur Promotion registriert waren, hat ebenfalls Interesse daran, mehr über die Promotionsbedingungen ihrer Promovierenden zu erfahren. Um Doppelbefragungen zu vermeiden, möchten wir die von Ihnen innerhalb dieses Fragebogens angegebenen Antworten an Ihre Hochschule zum Zweck der Qualitätssicherung und Evaluation im Bereich der Doktorandenausbildung – Ihr Einverständnis vorausgesetzt – weiter geben. 
-
-ao1: 1 : : Ja, ich bin mit der Weitergabe meiner Angaben an die Hochschule einverstanden.
-
-ao2: 2 : : Nein, ich bin mit der Weitergabe meiner Angaben an die Hochschule nicht einverstanden.
-
-mv:
-
-ka:
-
-vc: 
-
-av:
-
-kh:
-
-fv: 
-
-hv:
-
-fo:
-
-tr:
-
-GOTO A01 
-
-hi: 
-
-\-------------------------------------------------------------------------------------------------------------------------------------------------
 
 \__________________________________________A01_________________________________________\_
 -----------------------------------------------------------------------------------------
