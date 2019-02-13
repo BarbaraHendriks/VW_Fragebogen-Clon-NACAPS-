@@ -78,8 +78,7 @@ qt: Einfachauswahl mit vertikalen ao
 
 hl: Die Befragung ist in sechs thematische Blöcke gegliedert, die durch die Buchstaben A bis F gekennzeichnet werden.
 
-q: Anfang Dezember 2018 waren Sie an Ihrer Hochschule offiziell als Doktorand(in) registriert. In der Zwischenzeit
-kann sich daran etwas geändert haben.
+q: Seit Oktober 2018 sind Sie als Doktorand(in) in einem durch die VolkswagenStiftung finanzierten praxisorientierten Forschungskolleg registriert. In der Zwischenzeit kann sich daran etwas geändert haben.
 
 Bitte geben Sie an, was aktuell auf Sie zutrifft.
 
