@@ -14557,149 +14557,6 @@ hi: großes Textfeld
 
 \-------------------------------------------------------------------------------------------------------------------------------------------------
 
-\__________________________________________F01_________________________________________\_
------------------------------------------------------------------------------------------
-
-tc: (alle)
-
-vn: ainf01
-
-qt: Mehrfachauswahl
-
-it:
-
-q1: In etwa einem Jahr möchten wir Sie gerne zu einer weiteren Nacaps-Befragung einladen. Wenn Sie an dieser weiteren 
-Befragung oder an der Verlosung teilnehmen möchten, klicken Sie bitte auf den [Link](Link zum add-on). 
-In beiden Fällen benötigen wir Ihre Kontaktdaten. 
-
-is: Wir sichern Ihnen zu, dass Ihre Kontaktdaten streng getrennt von Ihren Angaben in der Befragung verarbeitet 
-und gespeichert werden.
-
-ao1: (ainf01): Nein, ich möchte nicht an der Folgebefragung teilnehmen und verzichte auch auf die Teilnahme an der Verlosung.
-
-mv:
-
-ka:
-
-vc:
-
-av:
-
-kh:
-
-fv:
-
-hv:
-
-fo: 
-
-tr:
-
-GOTO F02
-
-hi: 
-
-\-------------------------------------------------------------------------------------------------------------------------------------------------
-
-\__________________________________________F02_________________________________________\_
------------------------------------------------------------------------------------------
-
-tc:
-
-vn: ainf02
-
-qt: Mehrfachauswahl
-
-hl:  Für den Erfolg von Nacaps ist es von besonderer Wichtigkeit, dass wir Sie erneut befragen dürfen. Nacaps ist als 
-Längsschnittstudie konzipiert, um Promotions- und Karriereverläufe über einen längeren Zeitraum untersuchen zu können. 
-Deshalb möchten wir Sie noch einmal darum bitten, dass wir Sie in etwa einem Jahr erneut kontaktieren dürfen. 
-
-in:
-
-q: Wenn Sie an der weiteren Befragung oder an der Verlosung teilnehmen möchten, klicken Sie bitte auf den [Link](Link zum add-on).
-
-is: Wir sichern Ihnen zu, dass Ihre Kontaktdaten streng getrennt von Ihren Angaben in der Befragung verarbeitet und 
-gespeichert werden. 
-
-it:
-
-ao1: (ainf02): Nein, ich möchte nicht an der Folgebefragung teilnehmen und verzichte auch auf die Teilnahme an der Verlosung.
-
-mv:
-
-ka:
-
-vc:
-
-av:
-
-kh:
-
-fv:
-
-hv:
-
-fo: Antwortoptionen (Zebramuster)
-
-tr: 
-
-GOTO F03
-
-hi:
-
-\-------------------------------------------------------------------------------------------------------------------------------------------------
-
-\__________________________________________F03_________________________________________\_
------------------------------------------------------------------------------------------
-
-tc: 
-
-vn: acmt01
-
-qt: offene Frage (string)
-
-hl:
-
-in:
-
-q: Wir sind bestrebt, unsere Befragungen stets weiter zu verbessern. Gibt es
-Ihrer Meinung nach Themen, die unmittelbar mit Ihrer Promotion zusammenhängen,
-aber nicht thematisiert wurden? Was haben Sie vermisst? Was möchten Sie 
-noch anmerken?
-
-Bitte beachten Sie, dass wir Ihnen aus Datenschutzgründen zu Ihren
-Anmerkungen nicht persönlich antworten können. Bitte geben Sie in dieses Feld aus
-diesem Grund auch keine Telefonnummer oder andere Kontaktdaten ein. Wenn
-Sie Fragen haben, können Sie unsere Projektmitarbeiterinnen gerne unter den Telefonnummern +49 30 206 417 746 (Madeleine Siegel) oder +49 511 450 670 106 (Susanne Redeke) oder per E-Mail an [nacaps@dzhw.eu](mailto:nacaps\@dzhw.eu)
-kontaktieren.
-
-is: Zum Speichern Ihrer Angaben klicken Sie bitte auf "weiter".
-
-it:
-
-ao1: [string] 8 cm; 4 Zeilen
-
-mv:
-
-ka:
-
-vc:
-
-av:
-
-kh:
-
-fv:
-
-hv:
-
-fo:
-
-tr: GOTO end
-
-hi: großes Textfeld
-
-\-------------------------------------------------------------------------------------------------------------------------------------------------
 
 \__________________________________________end_________________________________________\_
 -----------------------------------------------------------------------------------------
@@ -14711,7 +14568,7 @@ schließen. Herzlichen Dank für Ihre Teilnahme!!!
 
 ka2: !!Sie können das Fenster nun schließen.!!
 
-is:  Auf der Website \#\#URL:www.nacaps.de\#\# und auf Twitter unter \#\#URL:@Nacaps_Panel\#\# finden Sie übrigens auch stets aktuelle Informationen zur Studie.
+is: 
 
 vc:
 
@@ -14746,10 +14603,10 @@ q:
 
 !!Liebe Teilnehmerin, lieber Teilnehmer,
 
-bitte beachten Sie, dass eine Teilnahme an der Nacaps-Befragung nur möglich ist,
+bitte beachten Sie, dass eine Teilnahme an der Onlinebefragung nur möglich ist,
 wenn Sie unseren Datenschutzbestimmungen zugestimmt haben.
 
-Wenn Sie an der Nacaps-Befragung teilnehmen möchten, klicken Sie bitte
+Wenn Sie an der Befragung teilnehmen möchten, klicken Sie bitte
 unten auf den Button „Zurück“ und stimmen Sie nachfolgend den
 Datenschutzbestimmungen zu.
 
@@ -14799,7 +14656,7 @@ q:
 
 !!Liebe Teilnehmerin, lieber Teilnehmer,
 
-bitte beachten Sie, dass Sie die Nacaps-Befragung nur fortführen können, wenn
+bitte beachten Sie, dass Sie die Befragung nur fortführen können, wenn
 Sie eine Angabe zu der Frage gemacht haben, welchen Status Ihre Promotion hat.
 
 Sofern Sie Interesse an der Teilnahme an der Studie haben, klicken Sie bitte
