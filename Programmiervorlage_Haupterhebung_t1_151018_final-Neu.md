@@ -15,22 +15,19 @@ in:
 
 q:
 
-!!Herzlich willkommen zur Promovierenden- und Promoviertenbefragung „Nacaps“!!!
-!!For an English version of the survey please click the flag in the header!!!
+!!Herzlich Willkommen zur ersten Onlinebefragung der Begleitforschung "Wissenschaft und berufliche Praxis in der Graduiertenausbildung"!!!
 
-In Abhängigkeit von Ihrer persönlichen Lebenssituation wird die Befragung etwa 25 bis 35 Minuten dauern. Sie können die Befragung auch am Smartphone ausfüllen, allerdings ist die Beantwortung an einem größeren Bildschirm bequemer und schneller. Sie haben jederzeit die Möglichkeit, die Befragung zu unterbrechen und zu einem späteren Zeitpunkt fortzuführen. Wenn Sie alle Fragen beantwortet haben, haben Sie anschließend die Gelegenheit, an der angekündigten Verlosung teilzunehmen.
+In Abhängigkeit von Ihrer persönlichen Lebenssituation wird die Befragung etwa 25 bis 35 Minuten dauern. Sie können die Befragung auch am Smartphone ausfüllen, allerdings ist die Beantwortung an einem größeren Bildschirm bequemer und schneller. Sie haben jederzeit die Möglichkeit, die Befragung zu unterbrechen und zu einem späteren Zeitpunkt fortzuführen.
 
 Für Ihre Teilnahme danken wir Ihnen bereits an dieser Stelle ganz herzlich!
 
-Dr. Kolja Briedis, Dr. Bernd Martens und Dr. Antje Wegner
+Barbara Hendriks und Prof. Dr. Stefan Hornbostel
 
-Projektleitung Nacaps
-
-!![Hinweise zum Datenschutz](https://www.nacaps.de/files/datenschutzbestimmungen.pdf)!!
+!!Hinweise zum Datenschutz!!
 
 Ihre Teilnahme ist selbstverständlich freiwillig. Ihre Angaben werden für Forschungs- und Evaluationszwecke genutzt. Sämtliche Nacaps-Daten werden nur in anonymisierter Form publiziert und anderen Wissenschaftler(inne)n nur anonymisiert zur Verfügung gestellt. Ihre Kontaktdaten werden stets getrennt von den Befragungsdaten verarbeitet und gespeichert. Keinesfalls werden Ihre Kontaktdaten an Dritte weitergegeben.
 
-ao: 1 : : Ja, ich habe die Hinweise zum Datenschutz (siehe Link weiter oben) gelesen und bin damit einverstanden.
+ao: 1 : : Ich habe die in der Einladungsemail als PDF angehängten Datenschutzbestimmungen gelesen und bin damit einverstanden.
 
 !!Kontakt!!
 
@@ -38,7 +35,7 @@ Bei !!Fragen zum Datenschutz!! wenden Sie sich bitte an den Datenschutzbeauftrag
 
 Auch bei allen !!anderen Fragen und Anmerkungen!! stehen wir Ihnen gerne zur Verfügung:
 
-Telefonisch erreichen Sie die Projektmitarbeiterin Madeleine Siegel unter +49 30 206 417 746 und die Projektmitarbeiterin Susanne Redeke unter +49 511 450 670 106. Beide sind auch per E-Mail an [nacaps@dzhw.eu](mailto:nacaps@dzhw.eu) erreichbar.
+Frau Barbara Hendriks erreichen Sie per Email unter (mailto:hendriks@dzhw.eu). 
 
 mv:
 
@@ -51,8 +48,7 @@ av:
 kh:
 
 fv: (flag_index): Bitte beachten Sie, dass ohne Zustimmung zu den
-Datenschutzbestimmungen eine Teilnahme an der Nacaps-Befragung leider nicht
-möglich ist.
+Datenschutzbestimmungen eine Teilnahme an der Onlinebefragung leider nicht möglich ist.
 
 hv:
 
